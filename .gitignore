@@ -1,0 +1,49 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+coverage/
+
+# DotCover
+*.dotCover
+
+# Publish output
+publish/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Rider caches
+.idea/
+*.sln.iml
